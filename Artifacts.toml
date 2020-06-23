@@ -1,0 +1,25 @@
+[[CUDNN_CUDA101]]
+arch = "x86_64"
+git-tree-sha1 = "2074cce5cf5eb739f3fe896c596695519393dd08"
+libc = "glibc"
+os = "linux"
+
+    [[CUDNN_CUDA101.download]]
+    sha256 = "9038c4a247346e20b67fa04ad39fecbd8f22089156cd87666598f34019926865"
+    url = "https://github.com/JuliaBinaryWrappers/CUDNN_CUDA101_jll.jl/releases/download/CUDNN_CUDA101-v7.6.5+0/CUDNN_CUDA101.v7.6.5.x86_64-linux-gnu.tar.gz"
+[[CUDNN_CUDA101]]
+arch = "x86_64"
+git-tree-sha1 = "d47fa8132350cf987b6ba3776fe67b400a935067"
+os = "windows"
+
+    [[CUDNN_CUDA101.download]]
+    sha256 = "6c84fcbde1223bce0ea7fad00576524d29485837a342b39a6b8211e0e71a927c"
+    url = "https://github.com/JuliaBinaryWrappers/CUDNN_CUDA101_jll.jl/releases/download/CUDNN_CUDA101-v7.6.5+0/CUDNN_CUDA101.v7.6.5.x86_64-w64-mingw32.tar.gz"
+[[CUDNN_CUDA101]]
+arch = "x86_64"
+git-tree-sha1 = "8d6ff27c3a145eada3cb58b02a7051688e6a2d08"
+os = "macos"
+
+    [[CUDNN_CUDA101.download]]
+    sha256 = "b07de2ba0a454196d4f3706e85c66f9c5a0f5b0060574de0082229192581ab45"
+    url = "https://github.com/JuliaBinaryWrappers/CUDNN_CUDA101_jll.jl/releases/download/CUDNN_CUDA101-v7.6.5+0/CUDNN_CUDA101.v7.6.5.x86_64-apple-darwin14.tar.gz"
