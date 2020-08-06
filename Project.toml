@@ -1,6 +1,6 @@
 name = "CUDNN_CUDA101_jll"
 uuid = "0e66bb0f-9c4c-572f-9142-addab54c8167"
-version = "7.6.5+0"
+version = "8.0.2+0"
 
 [deps]
 Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
