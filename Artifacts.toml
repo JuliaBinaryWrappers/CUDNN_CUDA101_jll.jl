@@ -1,26 +1,26 @@
 [[CUDNN_CUDA101]]
 arch = "x86_64"
-git-tree-sha1 = "71ca6f6b0ce0d4cb5f7cbfe96d262c5a45b52b6f"
+git-tree-sha1 = "ef45f9aaa18e23f1360eb6cb06c89ead81752f02"
 libc = "glibc"
 os = "linux"
 
     [[CUDNN_CUDA101.download]]
-    sha256 = "e298d4a9c675ac2fd8e33484df9c826c23f44519b4380969ac190b53a91fafac"
-    url = "https://github.com/JuliaBinaryWrappers/CUDNN_CUDA101_jll.jl/releases/download/CUDNN_CUDA101-v8.0.3+0/CUDNN_CUDA101.v8.0.3.x86_64-linux-gnu.tar.gz"
+    sha256 = "b72bac08f0c878a350b35c69356a85a5cd578b0e457ac68c9989f6bf055b9880"
+    url = "https://github.com/JuliaBinaryWrappers/CUDNN_CUDA101_jll.jl/releases/download/CUDNN_CUDA101-v8.0.4+0/CUDNN_CUDA101.v8.0.4.x86_64-linux-gnu.tar.gz"
 [[CUDNN_CUDA101]]
 arch = "powerpc64le"
-git-tree-sha1 = "9eb3774d080595f51d145501ee1d637a95920840"
+git-tree-sha1 = "5d3b42f300c3a87ab8858e86aa81f9caf4b12d1a"
 libc = "glibc"
 os = "linux"
 
     [[CUDNN_CUDA101.download]]
-    sha256 = "2caa082e49df58ba063c89c35cd57646b5d9b26b81cdd3c8be7c197b587c1be2"
-    url = "https://github.com/JuliaBinaryWrappers/CUDNN_CUDA101_jll.jl/releases/download/CUDNN_CUDA101-v8.0.3+0/CUDNN_CUDA101.v8.0.3.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "a40f9e83864b339af28a7012e9f027b932aa0a882a7dd2a63bb9a94fc58e111e"
+    url = "https://github.com/JuliaBinaryWrappers/CUDNN_CUDA101_jll.jl/releases/download/CUDNN_CUDA101-v8.0.4+0/CUDNN_CUDA101.v8.0.4.powerpc64le-linux-gnu.tar.gz"
 [[CUDNN_CUDA101]]
 arch = "x86_64"
-git-tree-sha1 = "92356e73674a3407c571f2996b823a4b748c6d3c"
+git-tree-sha1 = "29e0f0db94f0a4aa539ffc8593dd07f0f209965c"
 os = "windows"
 
     [[CUDNN_CUDA101.download]]
-    sha256 = "a7ee68883ee5b679a0e6c142d26bd7119ebe39c53c9ac0a94654f956bb74bf98"
-    url = "https://github.com/JuliaBinaryWrappers/CUDNN_CUDA101_jll.jl/releases/download/CUDNN_CUDA101-v8.0.3+0/CUDNN_CUDA101.v8.0.3.x86_64-w64-mingw32.tar.gz"
+    sha256 = "ac23cbb9ccde477ec2fad4d2efa1b891c8c6079de5df06f6f9d7f4871343d23f"
+    url = "https://github.com/JuliaBinaryWrappers/CUDNN_CUDA101_jll.jl/releases/download/CUDNN_CUDA101-v8.0.4+0/CUDNN_CUDA101.v8.0.4.x86_64-w64-mingw32.tar.gz"
